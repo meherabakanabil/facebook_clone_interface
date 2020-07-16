@@ -4,7 +4,7 @@ Facebook-login-page-clone by MHNABIL
 A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.
 
 View it here :  
-https://searchnabil.github.io/facebook_clone_interface
+https://facebook-nabil.netlify.app
 
 
 When previewing in computer, reduce the browser window size to view Mobile version.
